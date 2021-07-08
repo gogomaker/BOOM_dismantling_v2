@@ -1,0 +1,6 @@
+{
+    "sketch": "programming\\BOOM_v2\\BOON_v2.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:arduinoasisp"
+}
